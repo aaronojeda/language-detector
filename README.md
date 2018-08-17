@@ -6,7 +6,7 @@ Python version: 3.7.0
 
 INSTRUCTIONS
 
-	Put the files that you want to test correctly separated in 'cpp', 'java' and 'python' directories.
+	Put the files that you want to test correctly separated in directories called 'cpp', 'java' and 'python'.
 	Run the script to see a summary of the prediction results. 
 
 FUNCTIONS
